@@ -24,6 +24,7 @@ A Python script utilizing SMTP for sending emails with automated attachments, su
 
 ## Usage:
 ```python
+from main import Email
 
 # Initialize Email class
 email = Email()
