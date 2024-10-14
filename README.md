@@ -20,7 +20,7 @@ A Python script utilizing SMTP for sending emails with automated attachments, su
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/automate-emails.git
+   git clone https://github.com/uddithmachiraju/Automate-Emails.git
 
 ## Usage:
 ```python
